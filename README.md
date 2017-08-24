@@ -14,3 +14,14 @@ jupyter notebook을 이용한 예제코드를 공유할 예정이므로 이를 �
 http://jupyter.org/install.html
 
 
+The following topics will be covered with a sample example.
+1. import medical imaging or imaging data
+2. classification
+3. regression
+4. segmentation
+5. object detection
+6. 3D CNN
+7. GAN
+
+
+
