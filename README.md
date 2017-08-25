@@ -20,8 +20,5 @@ The following topics will be covered with a sample example.
 3. regression
 4. segmentation
 5. object detection
-6. 3D CNN
-7. GAN
-
 
 
